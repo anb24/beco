@@ -1,0 +1,13 @@
+.sidebar__menu {
+    margin: auto;
+    padding: 22px 0 22px 41px;
+    
+}
+
+.sidebar__menu:first-child {
+    padding-top: 0;
+}
+
+.sidebar__menu:last-child {
+    padding-bottom: 0;
+}

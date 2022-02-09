@@ -1,0 +1,10 @@
+.header__name {
+    margin: 0;
+    padding: 40px 0 31px 60px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    opacity: 0.85;
+}

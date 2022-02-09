@@ -1,0 +1,24 @@
+.header__search {
+    width: 100%;
+    max-width: 1080px;
+    height: 52px;
+    margin: 0 0 40px 60px;
+    border-radius: 50px;
+    box-sizing: border-box;
+    border: 1px solid rgba(51, 51, 51, 0.2);
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 0.45);
+}
+
+.header__search::placeholder {
+    background-image: url(../../../images/header/search.svg);
+    background-repeat: no-repeat;
+    background-position: 1vw;
+    width: 100%;
+    padding-left: 45px;
+    margin: auto;
+    display: flex;
+}

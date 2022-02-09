@@ -3,3 +3,19 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
+
+@import url(../blocks/sidebar/sidebar.css);
+@import url(../blocks/sidebar/__logo/sidebar__logo.css);
+@import url(../blocks/sidebar/__logo/_img/sidebar__logo_img.css);
+@import url(../blocks/sidebar/__logo/_txt/sidebar__logo_txt.css);
+@import url(../blocks/sidebar/__menu/_container/sidebar__menu-container.css);
+@import url(../blocks/sidebar/__menu/sidebar__menu.css);
+@import url(../blocks/sidebar/__menu/_link/sidebar__menu_link.css);
+@import url(../blocks/sidebar/__menu/_img/sidebar__menu_img.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__name/header__name.css);
+@import url(../blocks/header/__search/header__search.css);
+
+@import url(../blocks/elements/elements.css);
+@import url(../blocks/element/element.css);
