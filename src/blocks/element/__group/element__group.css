@@ -1,3 +1,10 @@
-.element__group {
-    display: block;
+.element__group::after {
+    content: ''; 
+    position: absolute;
+    left: 0%; bottom: 45%;
+    border: 10px solid transparent;
+    border-top: 10px solid rgba(0, 0, 0, .04);
+    transform: rotate(90deg) scale(1,-1);
+    -webkit-box-reflect: above -346.8px;
 }
+   

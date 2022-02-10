@@ -1,0 +1,13 @@
+.element__title {
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #000000;
+    width: 100%;
+    max-width: 306px;
+    padding: 16px 20px 4px;
+    margin: 0;
+}

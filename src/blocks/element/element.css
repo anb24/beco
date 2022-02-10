@@ -4,15 +4,17 @@
     max-height: 161px;
     background: #FFFFFF;
     border-radius: 10px;
-    /* position: relative; */
     box-shadow: 2px 2px 3px 3px rgba(150, 150, 150, .1);
     display: flex;
-    align-items: center;
+    justify-content: space-between;
+    position: relative;
 }
 
 .element:hover {
-    transition: 0.5s;
-    transform: scale(1.05);
-    box-shadow: 5px 5px 8px 8px rgba(150, 150, 150, .1);
+    transition: 0.2s;
+    transform: scale(1.02);
+    box-shadow: 4px 4px 5px 5px rgba(150, 150, 150, .1);
     cursor: pointer;
+    outline: 1px solid rgba(250, 42, 42, 0.8);
+    outline-offset: -1px;
     }

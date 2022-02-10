@@ -1,0 +1,11 @@
+.element__num {
+    margin: 0;
+    padding-left: 20px;
+    width: 100%;
+    max-width: 195px;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 28px;
+    color: #DF212D;
+}
