@@ -13,4 +13,16 @@
         transition: 0.5s;
         transform: translateX(-136px);
     }
-  }
+}
+
+@media (max-width: 905px) {
+    .sidebar {
+        height: 100vh;
+        position: fixed;
+        z-index: 11;
+        left: 0;
+        top: 0;
+        transition: 0.5s;
+        transform: translateX(-228px);
+    }
+}

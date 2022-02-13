@@ -31,6 +31,19 @@
 @media (max-width: 1265px) {
     .header__search {
         max-width: 664px;
-        
+    }
+}
+
+@media (max-width: 745px) {
+    .header__search {
+        max-width: 280px;
+        margin: 0 0 26px 20px;
+        padding-left: 10px;
+    }
+    .header__search::placeholder {
+        letter-spacing: -0.01em;
+        background-position: 1.5vw;
+        padding-left: 35px;
+        font-size: 14px;
     }
 }

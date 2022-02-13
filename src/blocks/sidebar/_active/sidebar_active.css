@@ -3,8 +3,16 @@
 }
 
 @media (max-width: 1420px) {
-    .sidebar__menu_link {
+    .sidebar_active {
         font-size: 16px;
         padding-right: 27px;
     }
-  }
+}
+
+@media (max-width: 905px) {
+    .sidebar_active {
+        font-size: 16px;
+        padding-right: 27px;
+        transform: translateX(-48px);
+    }
+}

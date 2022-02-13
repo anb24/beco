@@ -5,3 +5,10 @@
     max-height: 161px;
     border-radius: 0 10px 10px 0;
 }
+
+@media (max-width: 905px) {
+    .element__image {
+        max-width: 89px;
+        max-height: 130px;
+    }
+}

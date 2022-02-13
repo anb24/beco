@@ -10,3 +10,11 @@
     color: #000000;
     opacity: 0.5;
 }
+
+@media (max-width: 905px) {
+    .element__description {
+        font-size: 12px;
+        max-width: 228px;
+        padding-bottom: 24px;
+    }
+}

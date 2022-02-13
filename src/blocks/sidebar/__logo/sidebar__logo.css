@@ -10,3 +10,10 @@
         padding-right: 17px;
     }
 }
+
+@media (max-width: 905px) {
+    .sidebar__logo {
+        justify-content: center;
+        padding-left: 15px;
+    }
+}

@@ -9,3 +9,11 @@
     line-height: 28px;
     color: #DF212D;
 }
+
+@media (max-width: 905px) {
+    .element__num {
+        font-size: 28px;
+        line-height: 24px;
+        max-width: 161px;
+    }
+}

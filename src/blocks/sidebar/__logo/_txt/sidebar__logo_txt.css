@@ -13,3 +13,9 @@
         font-size: 0;
     }
 }
+
+@media (max-width: 905px) {
+    .sidebar__logo_txt {
+        font-size: 14px;
+    }
+}

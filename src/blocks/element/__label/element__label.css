@@ -12,3 +12,11 @@
     color: #000000;
     opacity: 0.5;
 }
+
+@media (max-width: 905px) {
+    .element__label {
+        font-size: 12px;
+        max-width: 161px;
+        padding-bottom: 16px;
+    }
+}

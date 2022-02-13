@@ -8,3 +8,9 @@
         transform: translateX(84px);
     }
 }
+
+@media (max-width: 905px) {
+    .wrapper {
+        transform: translateX(0px);
+    }
+}

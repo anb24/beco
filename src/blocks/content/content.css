@@ -4,3 +4,16 @@
         max-width: 883px;
     }
 }
+
+@media (max-width: 935px) {
+    .content {
+        width: 100%;
+        max-width: 450px;
+    }
+}
+
+@media (max-width: 905px) {
+    .content {
+        max-width: 323px;
+    }
+}
