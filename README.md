@@ -19,4 +19,4 @@ Html Css JavaScript
 
 **Ссылка GitHub**
 
-* [Ссылка на GitHub](https://anb24.github.io/beco)
+* [Ссылка на проект](https://anb24.github.io/beco/)
