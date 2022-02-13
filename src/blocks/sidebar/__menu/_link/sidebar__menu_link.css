@@ -14,3 +14,11 @@
     transform: scale(1.1);
     color: black;
     }
+
+@media (max-width: 1420px) {
+    .sidebar__menu_link {
+        font-size: 0;
+        justify-content: end;
+        padding-right: 27px;
+    }
+}

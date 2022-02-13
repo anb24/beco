@@ -1,0 +1,10 @@
+.wrapper {
+    transition: 0.5s;
+    position: relative;
+}
+
+@media (max-width: 1420px) {
+    .wrapper {
+        transform: translateX(84px);
+    }
+}

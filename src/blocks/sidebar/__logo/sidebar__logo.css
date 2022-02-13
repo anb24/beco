@@ -3,3 +3,10 @@
     padding-top: 41px;
     padding-left: 41px;
 }
+
+@media (max-width: 1420px) {
+    .sidebar__logo {
+        justify-content: end;
+        padding-right: 17px;
+    }
+}

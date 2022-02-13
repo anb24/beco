@@ -27,3 +27,10 @@
     margin: auto;
     display: flex;
 }
+
+@media (max-width: 1265px) {
+    .header__search {
+        max-width: 664px;
+        
+    }
+}

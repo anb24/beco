@@ -1,0 +1,16 @@
+.sidebar__btn {
+    width: 26px;
+    height: 20px;
+    background-image: url(../../../images/Sidebar/burger_menu.svg);
+    position: fixed;
+    right: -31px;
+    top: 43px;
+    cursor: pointer;
+    visibility: hidden;
+}
+
+@media (max-width: 1420px) {
+    .sidebar__btn {
+        visibility: visible;
+    }
+}

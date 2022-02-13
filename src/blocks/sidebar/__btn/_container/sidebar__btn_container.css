@@ -1,0 +1,8 @@
+.sidebar__btn_container {
+    width: 48px;
+    height: 106px;
+    background-color: #F3F4F9;
+    position: absolute;
+    right: -40px;
+    clip-path:polygon(calc(100% - 50px) 0%, 100% 30px, 100% calc(100% - 30px), calc(100% - 50px) 100%);
+}
