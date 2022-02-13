@@ -9,7 +9,7 @@
     }
 }
 
-@media (max-width: 905px) {
+@media (max-width: 735px) {
     .sidebar_active {
         font-size: 16px;
         padding-right: 27px;

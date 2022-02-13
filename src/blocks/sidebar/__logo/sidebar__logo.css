@@ -11,7 +11,7 @@
     }
 }
 
-@media (max-width: 905px) {
+@media (max-width: 735px) {
     .sidebar__logo {
         justify-content: center;
         padding-left: 15px;

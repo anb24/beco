@@ -17,9 +17,16 @@
     cursor: pointer;
     outline: 1px solid rgba(250, 42, 42, 0.8);
     outline-offset: -1px;
-    }
+}
 
 @media (max-width: 905px) {
+    .element {
+        max-width: 296px;
+        max-height: 144px;
+    }
+}
+
+@media (max-width: 735px) {
     .element {
         max-width: 268px;
         max-height: 130px;

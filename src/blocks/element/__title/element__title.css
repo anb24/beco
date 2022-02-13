@@ -14,6 +14,13 @@
 
 @media (max-width: 905px) {
     .element__title {
+        font-size: 14px;
+        max-width: 260px;
+    }
+}
+
+@media (max-width: 735px) {
+    .element__title {
         font-size: 12px;
         max-width: 228px;
     }

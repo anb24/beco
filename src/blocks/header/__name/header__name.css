@@ -10,7 +10,7 @@
     opacity: 0.85;
 }
 
-@media (max-width: 745px) {
+@media (max-width: 735px) {
     .header__name {
         padding: 37px 20px 21px;
         width: 267px;

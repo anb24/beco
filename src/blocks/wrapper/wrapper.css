@@ -9,7 +9,7 @@
     }
 }
 
-@media (max-width: 905px) {
+@media (max-width: 735px) {
     .wrapper {
         transform: translateX(0px);
     }

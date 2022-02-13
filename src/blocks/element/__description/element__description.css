@@ -13,8 +13,16 @@
 
 @media (max-width: 905px) {
     .element__description {
+        font-size: 14px;
+        max-width: 260px;
+        padding: 0 18px 31px;
+    }
+}
+
+@media (max-width: 735px) {
+    .element__description {
         font-size: 12px;
         max-width: 228px;
-        padding-bottom: 24px;
+        padding:0 20px 24px;
     }
 }

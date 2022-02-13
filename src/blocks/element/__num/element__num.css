@@ -12,6 +12,14 @@
 
 @media (max-width: 905px) {
     .element__num {
+        font-size: 36px;
+        line-height: 28px;
+        max-width: 185px;
+    }
+}
+
+@media (max-width: 735px) {
+    .element__num {
         font-size: 28px;
         line-height: 24px;
         max-width: 161px;

@@ -23,7 +23,7 @@
     }
 }
 
-@media (max-width: 905px) {
+@media (max-width: 735px) {
     .sidebar__menu_link {
         font-size: 16px;
         justify-content: left;

@@ -7,8 +7,14 @@
     transform: rotate(90deg) scale(1,-1);
     -webkit-box-reflect: above -346.8px;
 }
-   
+ 
 @media (max-width: 905px) {
+    .element__group::after {
+        -webkit-box-reflect: above -271.8px;
+    }
+}
+
+@media (max-width: 735px) {
     .element__group::after {
         -webkit-box-reflect: above -267.8px;
     }

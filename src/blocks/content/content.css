@@ -8,11 +8,11 @@
 @media (max-width: 935px) {
     .content {
         width: 100%;
-        max-width: 450px;
+        max-width: 683px;
     }
 }
 
-@media (max-width: 905px) {
+@media (max-width: 735px) {
     .content {
         max-width: 323px;
     }
